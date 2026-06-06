@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Sravya 👋
 
-<!--
-**j-sravya/j-sravya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & ML graduate interested in Machine Learning, Data Analytics, and Generative AI.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* SQL
+* Machine Learning
+* Power BI
+* Tableau
+* Apache Spark
+* Hadoop
+* Streamlit
+* OpenAI APIs
+
+## Interests
+
+* AI Applications
+* Data Analytics
+* Machine Learning
+* Generative AI
+* Business Intelligence
+
+## Currently Learning
+
+* LangChain
+* RAG Pipelines
+* FastAPI
+* Advanced SQL
+
+## Open To
+
+* AI/ML Roles
+* Data Analyst Roles
+* Business Analyst Roles
+* AI Engineer Roles
