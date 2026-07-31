@@ -12,23 +12,7 @@ I build practical machine learning, analytics, and AI applications that solve bu
 
 `AI Engineer` • `Data Analyst` • `Machine Learning Engineer`
 
----
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/jsrinagasravya">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sravyajaogulamba@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:0F172A&height=3&section=header"/>
 
 # ⭐ Featured Projects
 
