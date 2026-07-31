@@ -1,112 +1,123 @@
 <p align="center">
-  <img src="./assets/github-banner.png" alt="Sravya | Applied AI & Data Product Builder" width="100%">
+  <img src="./assets/github-banner.png" alt="Sravya GitHub Banner" width="100%">
 </p>
 
-# Hi, I'm Sravya 👋
+<h1 align="center">Hi, I'm Sravya 👋</h1>
 
-### Applied AI & Data Product Builder
+<h3 align="center">
+Building AI systems that support better decisions.
+</h3>
 
-I build AI and data applications that transform business questions into machine learning models, analytics dashboards, and decision-support tools. My focus is creating practical, explainable solutions that combine data, software, and product thinking.
+<p align="center">
+I design practical AI, machine learning, and analytics applications that transform business questions into decision-ready insights.
+</p>
 
-**Target Roles:** AI Engineer • Data Analyst • Machine Learning Engineer • Product Analyst
+<p align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/jsrinagasravya">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sravyajaogulamba@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<b>Target Roles</b>
+
+<br>
+
+AI Engineer • Data Analyst • Machine Learning Engineer • Product Analyst
+
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/jsrinagasravya">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sravyajaogulamba@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-# 🚀 Current Focus
+# About
 
-- Building AI-powered applications with Python and Streamlit
-- Developing machine learning systems for decision support
-- Creating analytics dashboards that turn data into business insights
-- Improving engineering quality through testing, documentation, and deployment
+I build AI and data applications that combine machine learning, analytics, and interactive interfaces to solve practical business problems.
 
----
-
-# ⭐ Featured Projects
-
-> My portfolio is built around solving business problems through AI, machine learning, and analytics.
-
-| Project | Decision Supported | Primary Skills |
-|---------|--------------------|----------------|
-| 🎵 **Music Recommendation System** | Which songs should be recommended based on similarity, content, and user preferences? | Recommendation Systems • NLP • Streamlit • Machine Learning |
-| 📊 **Analytics Dashboard** | Which products, customers, and business KPIs require attention? | SQL • Analytics • Dashboards • Data Visualization |
-| 🤖 **Customer Churn Prediction** | Which customers are most likely to churn and why? | Classification • Feature Engineering • Model Evaluation |
-| 📈 **AI Job Market Analysis** | Which AI/Data skills and roles should early-career professionals prioritize? | Python • SQL • EDA • Business Insights |
-
-> Each project follows the same philosophy: **Business Problem → AI/Data Solution → Decision Supported → Actionable Insight**
+My focus is on creating projects that are understandable, reproducible, and useful—from data preparation and modeling to dashboards and decision-support applications.
 
 ---
 
-# ⚙️ How I Build
+# Current Focus
 
-Every project follows a structured workflow:
+- 🤖 AI-powered recommendation and decision-support systems
+- 📊 Analytics dashboards using Python and SQL
+- 🧠 Machine learning evaluation and explainable models
+- ⚙️ Production-style portfolio projects with clean documentation
+
+---
+
+# Featured Projects
+
+| Project | Focus | Status |
+|---------|-------|--------|
+| 🎵 **Music Recommendation System** | AI Recommendation Engine | 🚧 In Progress |
+| 📊 **Analytics Dashboard** | Business Intelligence | 🚧 In Progress |
+| 📉 **Customer Churn Prediction** | Machine Learning | 🚧 In Progress |
+
+> These flagship projects are currently being upgraded with improved documentation, architecture diagrams, evaluation, deployment, and engineering best practices.
+
+---
+
+# How I Build
 
 ```text
 Business Problem
         ↓
 Data Collection & Preparation
         ↓
-Analytics / Machine Learning
+Analysis / Machine Learning
         ↓
 Interactive Application
         ↓
-Decision-Support Insights
+Decision-Ready Insight
 ```
 
-I believe good AI systems should not only generate predictions—they should help people make better decisions.
+---
+
+# Technical Toolkit
+
+| AI & Machine Learning | Data Analytics | Development | Visualization |
+|-----------------------|---------------|-------------|---------------|
+| Python | SQL | Git | Streamlit |
+| Scikit-Learn | Pandas | GitHub | Matplotlib |
+| Recommendation Systems | NumPy | VS Code | Power BI |
+| Model Evaluation | EDA | Jupyter | Dashboards |
 
 ---
 
-# 🛠 Technical Toolkit
+<div align="center">
 
-| Area | Technologies |
-|------|--------------|
-| **Programming** | Python, SQL |
-| **Machine Learning** | Scikit-learn, Pandas, NumPy |
-| **Analytics** | Power BI, Excel, Matplotlib |
-| **Applications** | Streamlit |
-| **Version Control** | Git, GitHub |
-| **Currently Expanding** | FastAPI, Model Evaluation, Deployment |
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=j-sravya&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=j-sravya&theme=github-dark&hide_border=true"/>
+
+</div>
 
 ---
 
-# 📌 Portfolio Philosophy
+# Let's Connect
 
-Rather than building many unrelated projects, I'm focused on creating a small collection of well-documented applications that demonstrate:
+<p align="center">
 
-- AI Engineering
-- Machine Learning
-- Data Analytics
-- Business Intelligence
-- Product Thinking
-- Software Engineering Fundamentals
+<a href="https://www.linkedin.com/in/jsrinagasravya">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Every repository is designed to answer one question:
+<a href="mailto:sravyajaogulamba@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-> **What decision does this project help someone make?**
-
----
-
-# 📫 Let's Connect
-
-💼 **LinkedIn**  
-https://www.linkedin.com/in/jsrinagasravya
-
-📧 **Email**  
-sravyajaogulamba@gmail.com
+</p>
 
 ---
 
 <p align="center">
-
-*"Turning data into decisions through practical AI."*
-
+<i>Building practical AI and data products that help people make better decisions.</i>
 </p>
