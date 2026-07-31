@@ -19,3 +19,10 @@ I build practical AI and data products that transform business questions into mo
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=j-sravya&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=j-sravya&theme=github-dark&hide_border=true"/>
+
+</div>
