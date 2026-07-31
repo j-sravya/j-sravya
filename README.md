@@ -122,7 +122,7 @@ Machine Learning products
 
 <p align="center">
 
-> **Good AI is not about replacing decisions. It's about helping people make better ones.**
+> **AI is not about replacing decisions. It's about helping people make better ones.**
 
 </p>
 
