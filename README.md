@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/github-banner.png" alt="Sravya GitHub Banner" width="100%">
+</p>
+
 # Hi, I'm Sravya 👋
 
 AI & ML graduate interested in Machine Learning, Data Analytics, and Generative AI.
