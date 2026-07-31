@@ -1,123 +1,98 @@
 <p align="center">
-  <img src="./assets/github-banner.png" alt="Sravya GitHub Banner" width="100%">
+  <img src="./assets/github-banner.png" alt="GitHub Banner" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Sravya 👋</h1>
-
-<h3 align="center">
-Building AI systems that support better decisions.
-</h3>
-
-<p align="center">
-I design practical AI, machine learning, and analytics applications that transform business questions into decision-ready insights.
-</p>
+<h1 align="center">
+Hi 👋 I'm Sravya
+</h1>
 
 <p align="center">
 
-<b>Target Roles</b>
-
-<br>
-
-AI Engineer • Data Analyst • Machine Learning Engineer • Product Analyst
-
-</p>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/jsrinagasravya">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sravyajaogulamba@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2500&color=2563EB&center=true&vCenter=true&width=700&lines=AI+Engineer;Data+Analyst;Machine+Learning+Builder;Turning+Data+into+Decision+Support+Systems"/>
 
 </p>
 
 ---
 
-# About
+## 🚀 About Me
 
-I build AI and data applications that combine machine learning, analytics, and interactive interfaces to solve practical business problems.
+I build practical AI and data products that transform business questions into intelligent systems, analytics dashboards, and decision-support tools.
 
-My focus is on creating projects that are understandable, reproducible, and useful—from data preparation and modeling to dashboards and decision-support applications.
-
----
-
-# Current Focus
-
-- 🤖 AI-powered recommendation and decision-support systems
-- 📊 Analytics dashboards using Python and SQL
-- 🧠 Machine learning evaluation and explainable models
-- ⚙️ Production-style portfolio projects with clean documentation
+Instead of collecting projects, I focus on building applications that combine **Python, Machine Learning, SQL, Streamlit, and Data Analytics** into solutions that are easy to understand, reproducible, and useful.
 
 ---
 
-# Featured Projects
+# 🎯 Current Focus
 
-| Project | Focus | Status |
-|---------|-------|--------|
-| 🎵 **Music Recommendation System** | AI Recommendation Engine | 🚧 In Progress |
-| 📊 **Analytics Dashboard** | Business Intelligence | 🚧 In Progress |
-| 📉 **Customer Churn Prediction** | Machine Learning | 🚧 In Progress |
+<table>
+<tr>
 
-> These flagship projects are currently being upgraded with improved documentation, architecture diagrams, evaluation, deployment, and engineering best practices.
+<td width="33%" align="center">
+
+### 🤖 AI Systems
+
+Recommendation Systems
+
+Machine Learning
+
+Decision Intelligence
+
+</td>
+
+<td width="33%" align="center">
+
+### 📊 Analytics
+
+Dashboards
+
+Business Insights
+
+SQL Analytics
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️ Engineering
+
+Python
+
+Streamlit
+
+Clean Architecture
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# How I Build
+# ⭐ Featured Projects
+
+| Project | What it helps decide | Status |
+|----------|---------------------|--------|
+| 🎵 Music Recommendation System | Which songs should be recommended to maximize relevance? | 🚧 Improving |
+| 📈 Analytics Dashboard | Which KPIs require business attention? | 🚧 Improving |
+| 📉 Customer Churn Prediction | Which customers are likely to leave? | 🚧 Improving |
+
+> These repositories are currently being upgraded with architecture documentation, evaluation metrics, screenshots, deployment, and engineering improvements.
+
+---
+
+# 🧠 How I Build
 
 ```text
 Business Problem
-        ↓
+        │
+        ▼
 Data Collection & Preparation
-        ↓
+        │
+        ▼
 Analysis / Machine Learning
-        ↓
+        │
+        ▼
 Interactive Application
-        ↓
-Decision-Ready Insight
-```
-
----
-
-# Technical Toolkit
-
-| AI & Machine Learning | Data Analytics | Development | Visualization |
-|-----------------------|---------------|-------------|---------------|
-| Python | SQL | Git | Streamlit |
-| Scikit-Learn | Pandas | GitHub | Matplotlib |
-| Recommendation Systems | NumPy | VS Code | Power BI |
-| Model Evaluation | EDA | Jupyter | Dashboards |
-
----
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=j-sravya&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=j-sravya&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/jsrinagasravya">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sravyajaogulamba@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-<i>Building practical AI and data products that help people make better decisions.</i>
-</p>
+        │
+        ▼
+Business Insight
